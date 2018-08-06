@@ -22,6 +22,7 @@ public class JavaApplication22 {
         JOptionPane.showMessageDialog(null, "Hola");
         JOptionPane.showMessageDialog(null, "Hola");
         JOptionPane.showMessageDialog(null, "Modifiqué esto");
+        JOptionPane.showMessageDialog(null, "AHORA ESTO!!");
     }
     
 }
